@@ -15,26 +15,6 @@
           "id": 3,
           "nama": "text 3",
           "alamat": "alamat 3"
-        },
-        {
-          "id": 4,
-          "nama": "text 4",
-          "alamat": "alamat 4"
-        },
-        {
-          "id": 5,
-          "nama": "text 5",
-          "alamat": "alamat 5"
-        },
-        {
-          "id": 6,
-          "nama": "text 4",
-          "alamat": "alamat 4"
-        },
-        {
-          "id": 7,
-          "nama": "text 5",
-          "alamat": "alamat 5"
         }
     ]
 }
