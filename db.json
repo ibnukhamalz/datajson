@@ -15,6 +15,11 @@
           "id": 3,
           "nama": "text 3",
           "alamat": "alamat 3"
+        },
+        {
+          "id": 4,
+          "nama": "text 4",
+          "alamat": "alamat 4"
         }
     ]
 }
