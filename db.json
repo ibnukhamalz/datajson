@@ -20,6 +20,16 @@
           "id": 4,
           "nama": "text 4",
           "alamat": "alamat 4"
+        },
+        {
+          "id": 5,
+          "nama": "text 4",
+          "alamat": "alamat 4"
+        },
+        {
+          "id": 6,
+          "nama": "text 4",
+          "alamat": "alamat 4"
         }
     ]
 }
